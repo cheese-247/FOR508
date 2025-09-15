@@ -14,3 +14,6 @@ RDP stores credentials as where enter-pssession does not cache creds
 kansa is also capable to use push and execute binaries and 3rd party tools 
 
 KAPE allows triage collection
+
+https://www.virustotal.com/gui/file/f1237e97949054e65fda58c114d87b78365f1c144afcb66c80d2e12afce5ccf5
+used to chech hash of artificats to see if reported as malware or suspicious 
