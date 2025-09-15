@@ -10,3 +10,7 @@ netstat.exe | select-string 'established"
 GCI HKLM:software | format-wide
 
 RDP stores credentials as where enter-pssession does not cache creds 
+
+kansa is also capable to use push and execute binaries and 3rd party tools 
+
+KAPE allows triage collection
