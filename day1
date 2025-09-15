@@ -1,3 +1,12 @@
 get-wmi is used frequenlty but the repositories are not and is a typical spot to look for malicious activities 
 system32 is normal for dll and very common, other places should be scrutinized more 
 Kansa is a collection of powershell scripts 
+base PS commands 
+get-process
+get-service 
+get-alias *
+get-service | out-gridview 
+netstat.exe | select-string 'established"
+GCI HKLM:software | format-wide
+
+RDP stores credentials as where enter-pssession does not cache creds 
