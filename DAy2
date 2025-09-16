@@ -23,4 +23,7 @@ C:\Windows\AppCompat\Programs|Amcache.hve
 
 svchost should only run out of system32 folder typically 
 
+E:\C\Windows\prefetch>pecmd -f POWERSHELL.EXE-59FC8F3D.pf
+E:\C\Windows\prefetch>pecmd -f POWERSHELL.EXE-59FC8F3D.pf | findstr /I transcript
+
 
