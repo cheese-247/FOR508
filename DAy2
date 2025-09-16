@@ -26,4 +26,13 @@ svchost should only run out of system32 folder typically
 E:\C\Windows\prefetch>pecmd -f POWERSHELL.EXE-59FC8F3D.pf
 E:\C\Windows\prefetch>pecmd -f POWERSHELL.EXE-59FC8F3D.pf | findstr /I transcript
 
+4776 is like TSA locally at computer could involve domain controller NTLM local authentication tells how authenticaiton 
+4624 is like boarding on to the plane succesful authentication 
+4768 kerberos 
+4769 kerberos 
+4672 special logon for admin 
+5140 share access 
+
+4769
+
 
