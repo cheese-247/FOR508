@@ -20,3 +20,7 @@ Windows XP simcache had guratneed exection proof
 windows 8,10,11 no guranteed evidence of exection via simchache. 
 
 C:\Windows\AppCompat\Programs|Amcache.hve 
+
+svchost should only run out of system32 folder typically 
+
+
