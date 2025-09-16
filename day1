@@ -26,3 +26,7 @@ built in notebooks exportable to csv or json
 */
 SELECT Fqdn FROM source(artifact="Windows.Detection.ForwardedImports")
 GROUP BY Fqdn
+
+any user can request a ticket in the domain 
+kerborsing is the idea any user can request a ticket and crack the hash offline and have a password 
+for pass the hash attack you have to drop it our of memory 
