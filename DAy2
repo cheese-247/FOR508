@@ -11,6 +11,8 @@ with prefetch the first time you run executable it makes the file unless it ahs 
 also timing prefetch and its ten seconds versus the time the applicagion took tog et running 
 
 last execution timestamp is accurate, shows up to 8 other run times per application. if 7 shows 7 if 10 only shows last 8 first 2 would be lost. 
+also refrenced files and directories will be shown. 
+
 
 
 
