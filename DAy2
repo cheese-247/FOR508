@@ -13,8 +13,10 @@ also timing prefetch and its ten seconds versus the time the applicagion took to
 last execution timestamp is accurate, shows up to 8 other run times per application. if 7 shows 7 if 10 only shows last 8 first 2 would be lost. 
 also refrenced files and directories will be shown. 
 
+shimcache if you execute a file, modify file, or scroll through and browse over the icon. ALl of these create a shim event. NOT GURANTEED EVIDENCE OF EXECUTION BUT IF EXECUTED IT WILL MAKE A SHIMCACHE.
+best practice is to compare with prefetch as if truly executed both will populate. 
+just the m timestamp that from shimcache only changes when you modify the file. 
+Windows XP simcache had guratneed exection proof
+windows 8,10,11 no guranteed evidence of exection via simchache. 
 
-
-
-
-
+C:\Windows\AppCompat\Programs|Amcache.hve 
