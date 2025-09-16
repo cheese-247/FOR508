@@ -1,1 +1,12 @@
+evidence of execution and prefetch 
+prefetch is to speed up laoding of applicationa and is not designed as a security artifact (dna is not designed to catch murders but that is how it is used)
+doesnt record delete or upload just interacitons and frequently ran items to preload items. 
+
+C:\Windows\Prefetch is the locaton 
+C:\Windows\Prefetch
+system 32 is where the 64bit applicatoins are 
+syswow64 (system windows 32bbit on 64 bit windows) is where the 32bit applicaitons are at 
+
+with prefetch the first time you run executable it makes the file unless it ahs been deleted. Prefetch can show the first time it was run unless it was previously deleted. 
+
 
