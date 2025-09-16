@@ -30,3 +30,18 @@ GROUP BY Fqdn
 any user can request a ticket in the domain 
 kerborsing is the idea any user can request a ticket and crack the hash offline and have a password 
 for pass the hash attack you have to drop it our of memory 
+
+RDP is interactive session 
+PSsession in noninteractive 
+tokens can have impersoninations or delegation tokens that can be used to impersonate 
+only possible during a remote interactive system 
+tickets good for 10 hours 
+tokens in theory indefenite 
+token stealing using mimikatz
+you can bypass lsass you logon onto otheracoounts using your password 
+
+
+bloodhound is tool to find the path to dump a domain admins information 
+
+most organizations do not impliment credential guard or remote crdential guard as it will break things 
+
