@@ -27,12 +27,32 @@ E:\C\Windows\prefetch>pecmd -f POWERSHELL.EXE-59FC8F3D.pf
 E:\C\Windows\prefetch>pecmd -f POWERSHELL.EXE-59FC8F3D.pf | findstr /I transcript
 
 4776 is like TSA locally at computer could involve domain controller NTLM local authentication tells how authenticaiton 
+ 
 4624 is like boarding on to the plane succesful authentication 
 4768 kerberos 
 4769 kerberos 
 4672 special logon for admin 
 5140 share access 
-
+4779 rdp reconnect event A session was disconnected from a Window Station (think paused)
+4778 rdp reconnect event and records hostname of reconnect events (picked up where left off)
+4648 explicit credentials being provided doesn't mean it worked it was attempted 
 4769
+
+ip x.x.x.x:0 inbound traffic 
+x.x.x.x:445 outbound 
+-:- host only 
+logon type 9 shows run as events 
+
+1102 audit log cleared security 
+104 audit log cleared system 
+
+administrator rights are needed and clearing is all or nothing 
+
+event id 1000 and 1001 
+virusus total.com sha1 hash again 
+1116|1117 windows defedner malware log will show what it thinks it is and metadata 
+windows defedner by default is on sytems 
+wmi is baked in command line only good to run things remotely 
+WMI can get process running to exploit or what may catch you 
 
 
