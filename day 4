@@ -1,1 +1,8 @@
-stuff
+job is to scope 
+patient zero 
+how bad is it 
+
+sigcheck with sysinternals 
+can check for entropy which is the randomness odd to see in system32 files in windows shouldnt really see it score should be 6-8 with sigcheck
+
+maldump will check and extract quarantince files (could be extracting live malware and could accedntially excute again)
