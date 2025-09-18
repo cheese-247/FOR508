@@ -6,3 +6,36 @@ sigcheck with sysinternals
 can check for entropy which is the randomness odd to see in system32 files in windows shouldnt really see it score should be 6-8 with sigcheck
 
 maldump will check and extract quarantince files (could be extracting live malware and could accedntially excute again)
+
+MACB
+M time stamp is the contents of the file 
+A Data last accessed 
+C is the metadata filename time etc
+B file creation time IE BORN birthday 
+
+M and A more important 
+
+if file is copied technically a new file M timestamp is the only one that wint change. 
+
+set up a share on the target system (net use or smb) to drop malware on target system 
+
+files must have M and B stamps lab 4.2 stun.exe missing M and B 
+
+stun.exe missing thoses on this snapshot has been there before or its been timestomped to give it the apperance of being there. like a teenager getting a fake ID
+
+smartscreen is when a file is downloaded from the internet attached to edgeupdater makes a ADS 
+
+logon type 10 RDP
+4626
+4672
+
+shellbags 
+.lnk files are evidence of opening files 
+
+smcache is the last modified time of a file 
+so a bunch of files with the same time is a renamed file 
+
+when you download a file form the internet you are modifying it technically cause a new file is made while it all pulls down 
+
+prefetch means that something was pulled to be ran 
+only last 8 instances of command be ran even if it was 25 times just last 8 
