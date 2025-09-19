@@ -1,0 +1,6 @@
+first inserted media usb attached to VM 
+then opened AIM aresnal image mounter 
+made dev01 c drive into H:\
+made rd01 c drive into 
+cd /d "C:\Forensic_Program_files\kape\"
+kape.exe --tlist . --tdetail
