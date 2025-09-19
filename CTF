@@ -4,3 +4,8 @@ made dev01 c drive into H:\
 made rd01 c drive into 
 cd /d "C:\Forensic_Program_files\kape\"
 kape.exe --tlist . --tdetail
+----------------------------------------------------------
+
+llm are chat instances, chatpgt perplexity etc
+hook llm up to tools 
+perplexity was the first one 
