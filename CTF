@@ -9,3 +9,7 @@ kape.exe --tlist . --tdetail
 llm are chat instances, chatpgt perplexity etc
 hook llm up to tools 
 perplexity was the first one 
+
+
+rd08 mailsniper 
+rd01 wacsvc
